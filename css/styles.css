@@ -1,0 +1,59 @@
+body {
+	font-size: 1.1em;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url(../assets/2017FDPD-teamphoto.jpg);
+}
+
+h1 {
+	font-size: 2.1em;
+}
+
+h2 {
+	font-size: 1.8em;
+	background: #cc0033;
+	color: #fff
+}
+
+h4 {
+	font-size: 1.5em
+}
+
+.nav-clear {
+	margin-top: 60px;
+}
+
+.bg-red {
+	background: #cc0033;
+}
+
+.navbar-dark .navbar-toggler {
+	color: #fff;
+	border-color: rgba(255,255,255,.5);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff
+}
+
+.navbar-brand {
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5em
+}
+
+.img-preview {
+	height: auto;
+	width:  100%;
+	padding: 10px 0 10px 0;
+}
+
+
+
+.container {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #fff;
+	padding-left: 0;
+	padding-right: 0; 
+}
+
+
