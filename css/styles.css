@@ -1,7 +1,7 @@
 body {
 	font-size: 1.1em;
 	font-family: 'Open Sans', sans-serif;
-	background-image: url(../assets/2017FDPD-teamphoto.jpg);
+	background-image: url(../assets/Diamondplate.jpg);
 }
 
 h1 {
@@ -11,11 +11,17 @@ h1 {
 h2 {
 	font-size: 1.8em;
 	background: #cc0033;
-	color: #fff
+	color: #fff;
+	padding: 7px;
 }
 
 h4 {
-	font-size: 1.5em
+	font-size: 1.5em;
+	padding: 7px;
+}
+
+p {
+	padding: 7px;
 }
 
 .nav-clear {
@@ -46,14 +52,33 @@ h4 {
 	padding: 10px 0 10px 0;
 }
 
+.img-left {
+	padding-left: 7px;
+}
+
+.img-right {
+	padding-right: 7px;
+}
 
 
 .container {
 	margin-top: 30px;
 	margin-bottom: 30px;
-	background-color: #fff;
+	background-color: #ccc;
 	padding-left: 0;
 	padding-right: 0; 
+}
+
+ul {
+	list-style: none;
+}
+
+
+
+.player-image {
+	height: 108px;
+	width: 108px;
+	background: #fff;
 }
 
 
